@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Game Shop
+//  Game Store
 //
 //  Created by Pyry Satama on 17.4.2021.
 //
