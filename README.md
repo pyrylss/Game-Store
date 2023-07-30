@@ -10,10 +10,6 @@ File Structure:
 
 Getting Started
 
-Prerequisites:
-
-- C Compiler
-
 Building:
 
 1. Clone the repository:
